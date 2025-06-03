@@ -102,3 +102,4 @@ where year(join_date) = 2023 and customer_id not in (select  distinct customer_i
 
 -- Q9) Show the total number of books sold for each author, including authors who haven't sold any books.
 
+
